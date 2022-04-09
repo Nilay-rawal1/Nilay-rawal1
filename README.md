@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-<img width="550px" src="https://github-readme-stats.vercel.app/api?username=anmol0409&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&bg_color=0D111700&text_color=AAFF00&custom_title=Anmol's+Github Stats" alt="Anmol's Github stats" />
+<img width="550px" src="https://github-readme-stats.vercel.app/api?username=Nilay-rawal1&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&bg_color=0D111700&text_color=AAFF00&custom_title=Nilay's+Github Stats" alt="Nilay's Github stats" />
 <img width="550px" src="http://github-readme-streak-stats.herokuapp.com?user=anmol0409&hide_border=false&background=404040&border=98FB98&fire=0FFF50&sideNums=FC6401&currStreakLabel=0FFF50&currStreakNum=0FFF50&sideLabels=0FFF50&dates=0FFF50&stroke=0FFF50" />
 </div>
 
@@ -42,8 +42,8 @@
 
 ### <img src="https://media.giphy.com/media/8m5fomvKEmXI9ZTR5R/giphy.gif" style="height:55px;width:55px" align = "center"> Connect With Me
 <p align="left" align='right'>
-<a target="_blank"href="mailto: anmol04092003@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a target="_blank"href="https://www.linkedin.com/in/anmoljain493/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank"href="mailto: code.nilay@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a target="_blank"href="https://www.linkedin.com/in/nilay-rawal-45343021b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a target="_blank"href="https://www.instagram.com/_._.anmol_.___>/">	<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 
