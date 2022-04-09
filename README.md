@@ -16,7 +16,7 @@
 <hr>
 <br>
 <div>
-<img src="https://activity-graph.herokuapp.com/graph?username=anmol0409&theme=radical&bg_color=202020&point=DFFF00&line=0FFF50&hide_border=true&custom_title=Keep+learning,+developing+and+git-ing+it+done&color=AAFF00&area=true&area_color=98FB98">
+<img src="https://activity-graph.herokuapp.com/graph?username=Nilay-rawal1&theme=radical&bg_color=202020&point=DFFF00&line=0FFF50&hide_border=true&custom_title=Keep+learning,+developing+and+git-ing+it+done&color=AAFF00&area=true&area_color=98FB98">
 </div>
 
 <div align="center">
