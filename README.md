@@ -21,7 +21,7 @@
 
 <div align="center">
 <img width="550px" src="https://github-readme-stats.vercel.app/api?username=Nilay-rawal1&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&bg_color=0D111700&text_color=AAFF00&custom_title=Nilay's+Github Stats" alt="Nilay's Github stats" />
-<img width="550px" src="http://github-readme-streak-stats.herokuapp.com?user=    &hide_border=false&background=404040&border=98FB98&fire=0FFF50&sideNums=FC6401&currStreakLabel=0FFF50&currStreakNum=0FFF50&sideLabels=0FFF50&dates=0FFF50&stroke=0FFF50" />
+<img width="550px" src="http://github-readme-streak-stats.herokuapp.com?user=Nilay-rawal1  &hide_border=false&background=404040&border=98FB98&fire=0FFF50&sideNums=FC6401&currStreakLabel=0FFF50&currStreakNum=0FFF50&sideLabels=0FFF50&dates=0FFF50&stroke=0FFF50" />
 </div>
 
 <hr>
