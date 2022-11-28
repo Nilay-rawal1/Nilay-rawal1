@@ -25,7 +25,7 @@
 </div>
 
 <hr>
-
+<!--
 ### <img src="https://media.giphy.com/media/s8dUuYpERzv9yPASAc/giphy.gif" style="height:55px;width:55px" align = "center"> My Skill stack :
 
 |               |           |
@@ -37,7 +37,7 @@
 | <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" style="height:40px;width:40px" align = "center"> `Mobile Frameworks`       | ![Web Studio](https://img.shields.io/badge/Web_Studio-3DDC84?style=for-the-badge&logo=Web-studio&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)|
 | <img src="https://media.giphy.com/media/bEINHV8oyO4JYTZE55/giphy.gif" style="height:40px;width:40px" align = "center"> `Designing`       | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)|
 | <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" style="height:40px;width:40px" align = "center"> `Competitive Programming`       | ![CodeChef](https://img.shields.io/badge/Codechef-00CCBB7.svg?&style=for-the-badge&logo=Codechef&logoColor=white)  ![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white) ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)|
-
+-->
 <hr>
 
 ### <img src="https://media.giphy.com/media/8m5fomvKEmXI9ZTR5R/giphy.gif" style="height:55px;width:55px" align = "center"> Connect With Me
