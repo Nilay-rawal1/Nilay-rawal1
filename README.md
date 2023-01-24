@@ -39,7 +39,7 @@
 | <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" style="height:40px;width:40px" align = "center"> `Competitive Programming`       | ![CodeChef](https://img.shields.io/badge/Codechef-00CCBB7.svg?&style=for-the-badge&logo=Codechef&logoColor=white)  ![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white) ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)|
 -->
 <hr>
-
+<!--
 ### <img src="https://media.giphy.com/media/8m5fomvKEmXI9ZTR5R/giphy.gif" style="height:55px;width:55px" align = "center"> Connect With Me
 <p align="left" align='right'>
 <a target="_blank"href="mailto: code.nilay@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
